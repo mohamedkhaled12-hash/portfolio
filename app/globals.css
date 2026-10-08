@@ -1,0 +1,9 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+:root{--bg:#f7f8fa;--fg:#0f172a;--mut:#475569;--card:rgba(255,255,255,.75);--bd:rgba(15,23,42,.12);--ac:#0e8f7e}
+.dark{--bg:#070b12;--fg:#e6edf6;--mut:#94a3b8;--card:rgba(255,255,255,.04);--bd:rgba(148,163,184,.16);--ac:#2dd4bf}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+body{background:var(--bg);color:var(--fg)}
+.grid-bg{background-image:linear-gradient(var(--bd) 1px,transparent 1px),linear-gradient(90deg,var(--bd) 1px,transparent 1px);background-size:48px 48px;mask-image:radial-gradient(ellipse at 50% 20%,#000 20%,transparent 70%)}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:1rem;backdrop-filter:blur(8px)}
+.mut{color:var(--mut)}.ac{color:var(--ac)}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}

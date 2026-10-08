@@ -1,0 +1,98 @@
+[
+ {
+  "title": "Data Management in Databricks",
+  "issuer": "DataCamp",
+  "date": "Sep 2026",
+  "iso": "2026-09-22",
+  "length": "3 Hrs",
+  "file": "/certs/data-management-in-databricks.jpg"
+ },
+ {
+  "title": "Introduction to Databricks SQL",
+  "issuer": "DataCamp",
+  "date": "Aug 2026",
+  "iso": "2026-08-01",
+  "length": "3 Hrs",
+  "file": "/certs/introduction-to-databricks-sql.jpg"
+ },
+ {
+  "title": "Introduction to Deep Learning with PyTorch",
+  "issuer": "DataCamp",
+  "date": "Jul 2026",
+  "iso": "2026-07-02",
+  "length": "4 Hrs",
+  "file": "/certs/introduction-to-deep-learning-with-pytorch.jpg"
+ },
+ {
+  "title": "SQL Fundamentals",
+  "issuer": "DataCamp",
+  "date": "Jun 2026",
+  "iso": "2026-06-17",
+  "length": "26 Hr",
+  "file": "/certs/sql-fundamentals.jpg"
+ },
+ {
+  "title": "Introduction to Databricks",
+  "issuer": "DataCamp",
+  "date": "May 2026",
+  "iso": "2026-05-25",
+  "length": "3 Hrs",
+  "file": "/certs/introduction-to-databricks.jpg"
+ },
+ {
+  "title": "Exploratory Data Analysis in SQL",
+  "issuer": "DataCamp",
+  "date": "May 2026",
+  "iso": "2026-05-15",
+  "length": "4 Hrs",
+  "file": "/certs/exploratory-data-analysis-in-sql.jpg"
+ },
+ {
+  "title": "Advanced Excel Functions",
+  "issuer": "DataCamp",
+  "date": "Feb 2026",
+  "iso": "2026-02-28",
+  "length": "2 Hrs",
+  "file": "/certs/advanced-excel-functions.jpg"
+ },
+ {
+  "title": "AI Mindset Diploma",
+  "issuer": "DotPy",
+  "date": "Feb 2026",
+  "iso": "2026-02-01",
+  "length": "",
+  "file": "/certs/ai-mindset-diploma.jpg"
+ },
+ {
+  "title": "Data Analysis with Excel Power Tools",
+  "issuer": "DataCamp",
+  "date": "Aug 2025",
+  "iso": "2025-08-15",
+  "length": "10 Hr",
+  "file": "/certs/data-analysis-with-excel-power-tools.jpg"
+ },
+ {
+  "title": "Joining Data in SQL",
+  "issuer": "DataCamp",
+  "date": "Jul 2025",
+  "iso": "2025-07-05",
+  "length": "4 Hrs",
+  "file": "/certs/joining-data-in-sql.jpg"
+ },
+ {
+  "title": "Introduction to SQL",
+  "issuer": "DataCamp",
+  "date": "Apr 2025",
+  "iso": "2025-04-19",
+  "length": "2 Hours",
+  "file": "/certs/introduction-to-sql.jpg"
+ },
+ {
+  "title": "Exploratory Data Analysis in Python",
+  "issuer": "DataCamp",
+  "date": "Apr 2025",
+  "iso": "2025-04-18",
+  "length": "4 Hours",
+  "file": "/certs/exploratory-data-analysis-in-python.jpg"
+ }
+]
